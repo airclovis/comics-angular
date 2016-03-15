@@ -1,0 +1,2443 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "\u00a9 2016 MARVEL",
+  "attributionText": "Data provided by Marvel. \u00a9 2016 MARVEL",
+  "attributionHTML": "<a href=\"http:\/\/marvel.com\">Data provided by Marvel. \u00a9 2016 MARVEL<\/a>",
+  "etag": "9381874710f8bf92f7737253ef7806a178548855",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 36500,
+    "count": 20,
+    "results": [
+      {
+        "id": 42882,
+        "digitalId": 26110,
+        "title": "Lorna the Jungle Girl (1954) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": null,
+        "modified": "2015-10-15T11:13:52-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/42882",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/42882\/lorna_the_jungle_girl_1954_6?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          },
+          {
+            "type": "reader",
+            "url": "http:\/\/marvel.com\/digitalcomics\/view.htm?iid=26110&utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/16355",
+          "name": "Lorna the Jungle Girl (1954 - 1957)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2054-03-01T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2012-04-13T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/40\/50b4fc783d30f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/40\/50b4fc783d30f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/42882\/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/42882\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/42882\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/106292",
+              "name": "cover from Lorna the Jungle Girl #6",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/42882\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 41530,
+        "digitalId": 0,
+        "title": "Ant-Man: So (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "It's the origin of the original Avenger, Ant-Man! Hank Pym has been known by a variety of names - including Ant-Man, Giant-Man, Goliath and Yellowjacket - he's been an innovative scientist, a famed super hero, an abusive spouse and more. What demons drive a man like Hank Pym? And how did he begin his heroic career? ",
+        "modified": "2012-09-25T18:05:58-0400",
+        "isbn": "978-0-7851-6390-9",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "9780785 163909 51999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 136,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "It's the origin of the original Avenger, Ant-Man! Hank Pym has been known by a variety of names - including Ant-Man, Giant-Man, Goliath and Yellowjacket - he's been an innovative scientist, a famed super hero, an abusive spouse and more. What demons drive a man like Hank Pym? And how did he begin his heroic career? "
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/41530",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/collection\/41530\/ant-man_so_trade_paperback?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          },
+          {
+            "type": "purchase",
+            "url": "http:\/\/comicstore.marvel.com\/Ant-Man-So-0\/digital-comic\/27157?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/15481",
+          "name": "Ant-Man: So (2011 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2020-12-31T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2020-12-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 19.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/30\/4fe8cb51f32e0",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/30\/4fe8cb51f32e0",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/41530\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/41530\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/41530\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/93946",
+              "name": "Cover #93946",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/93947",
+              "name": "Interior #93947",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/41530\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 43092,
+        "digitalId": 0,
+        "title": "Brilliant (2011) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "From the award-winning creators behind ULTIMATE SPIDER-MAN and AVENGERS ASSEMBLE comes the shocking creator-owned series that gives you something very different than a regular superhero comic and asks the question: How would the world react if a group of brilliant college students actually discovered the secret of superpowers? Well now, the secret is out!",
+        "modified": "2016-02-18T11:59:27-0500",
+        "isbn": "",
+        "upc": "75960607683300711",
+        "diamondCode": "JUN120706",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "From the award-winning creators behind ULTIMATE SPIDER-MAN and AVENGERS ASSEMBLE comes the shocking creator-owned series that gives you something very different than a regular superhero comic and asks the question: How would the world react if a group of brilliant college students actually discovered the secret of superpowers? Well now, the secret is out!"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/43092",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/43092\/brilliant_2011_7?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/14803",
+          "name": "Brilliant (2011 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-20T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-06-22T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.95
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/b\/80\/4fb2a4aa018c6",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/b\/80\/4fb2a4aa018c6",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/43092\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/43092\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/43092\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/96761",
+              "name": "Cover #96761",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/96762",
+              "name": "Interior #96762",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/43092\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 47113,
+        "digitalId": 0,
+        "title": "Scarlet (2010) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "From the award-winning team that brought you Daredevil and Spider-Woman comes another explosive chapter of one of the most controversial creator-owned comics being published today. Scarlet has declared war on a city that refuses to stop the corruption that is strangling it from within, and now she&#39;ll be forced to make her most dangerous move yet: letting them capture her.",
+        "modified": "2016-01-19T09:05:11-0500",
+        "isbn": "",
+        "upc": "759606073611000911",
+        "diamondCode": "MAY130705",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "From the award-winning team that brought you Daredevil and Spider-Woman comes another explosive chapter of one of the most controversial creator-owned comics being published today. Scarlet has declared war on a city that refuses to stop the corruption that is strangling it from within, and now she&#39;ll be forced to make her most dangerous move yet: letting them capture her."
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/47113",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/47113\/scarlet_2010_9?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/12212",
+          "name": "Scarlet (2010 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-18T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-05-04T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.95
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/5\/e0\/517aab576d132",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/5\/e0\/517aab576d132",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/47113\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/47113\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/47113\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/105819",
+              "name": "cover from Scarlet (2010) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/105820",
+              "name": "story from Scarlet (2010) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/47113\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 58533,
+        "digitalId": 0,
+        "title": "Miracleman by Gaiman & Buckingham: The Silver Age (2016) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "The wait is over! Neil Gaiman and Mark Buckingham present the story you\u2019ve waited decades for \u2014 the first ALL-NEW chapter in \u201cThe Silver Age!\u201d High atop the Himalayas, Dicky Dauntless searches to find his place in the Age of Miracles. He\u2019ll make new friends and encounter a frightening, familiar face \u2014 Johnny Bates! It\u2019s Young Miracleman and Kid Miracleman face-to-face!",
+        "modified": "2016-02-25T09:03:56-0500",
+        "isbn": "",
+        "upc": "75960608469200311",
+        "diamondCode": "FEB160926",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The wait is over! Neil Gaiman and Mark Buckingham present the story you\u2019ve waited decades for \u2014 the first ALL-NEW chapter in \u201cThe Silver Age!\u201d High atop the Himalayas, Dicky Dauntless searches to find his place in the Age of Miracles. He\u2019ll make new friends and encounter a frightening, familiar face \u2014 Johnny Bates! It\u2019s Young Miracleman and Kid Miracleman face-to-face!"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58533",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/58533\/miracleman_by_gaiman_buckingham_the_silver_age_2016_3?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/21367",
+          "name": "Miracleman by Gaiman & Buckingham: The Silver Age (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-11T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-26T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/b\/20\/5698071874442",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/b\/20\/5698071874442",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58533\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58533\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58533\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/127665",
+              "name": "cover from Miracleman by Gaiman & Buckingham: The Silver Age (2016) #3",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58533\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55577,
+        "digitalId": 0,
+        "title": "Moon Knight (2016) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Marc Spector is in an asylum full of faces: haughty doctor, hostile orderlies, vacant-eyed patients. Or maybe those faces are actually just masks\u2026If some of those masks hide friends, others may hide enemies, or worse\u2026GODS and MONSTERS. The moon is out, the mask is on: it\u2019s time to escape\u2014will Marc find a city full of sand, or something truly horrifying?",
+        "modified": "2016-02-29T09:04:28-0500",
+        "isbn": "",
+        "upc": "75960608309100211",
+        "diamondCode": "MAR160827",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Marc Spector is in an asylum full of faces: haughty doctor, hostile orderlies, vacant-eyed patients. Or maybe those faces are actually just masks\u2026If some of those masks hide friends, others may hide enemies, or worse\u2026GODS and MONSTERS. The moon is out, the mask is on: it\u2019s time to escape\u2014will Marc find a city full of sand, or something truly horrifying?"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55577",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/55577\/moon_knight_2016_2?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20488",
+          "name": "Moon Knight (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/6\/70\/56b8aa524f770",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/6\/70\/56b8aa524f770",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55577\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/10759",
+              "name": "Jeff Lemire",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12368",
+              "name": "Greg Smallwood",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/11921",
+              "name": "Jacob Thomas",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55577\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55577\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/122197",
+              "name": "cover from Moon Knight (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/122198",
+              "name": "story from Moon Knight (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55577\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55362,
+        "digitalId": 0,
+        "title": "All-New, All-Different Avengers (2015) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "New Story Starts NOW! Introducing the all-new Wasp! Who is she? What is she? And what does she intend to do about Earth\u2019s Mightiest Heroes?",
+        "modified": "2016-02-29T09:03:49-0500",
+        "isbn": "",
+        "upc": "75960608299500911",
+        "diamondCode": "MAR160762",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "New Story Starts NOW! Introducing the all-new Wasp! Who is she? What is she? And what does she intend to do about Earth\u2019s Mightiest Heroes?"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55362",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/55362\/all-new_all-different_avengers_2015_9?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20443",
+          "name": "All-New, All-Different Avengers (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/a\/00\/56b38fc25ec96",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/d\/20\/56cde8c4d69e3",
+            "extension": "jpg"
+          },
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/a\/00\/56b38fc25ec96",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55362\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/9018",
+              "name": "Mahmud Asrar",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/63",
+              "name": "Alex Ross",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55362\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55362\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/121767",
+              "name": "cover from Avengers (2015) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/121768",
+              "name": "story from Avengers (2015) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55362\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 58984,
+        "digitalId": 0,
+        "title": "Deadpool (2015) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Months ago, we were proud to bring you DEADPOOL TRES PUNTO UNO \u2014 a tale told all in Spanish, revealing MASACRE, the Deadpool of Mexico! Due to popular demand (because apparently you were too lazy to translate it for yourself) Marvel has taken to an unspecified Internet translation site and is re-presenting the comic in POORLY TRANSLATED ENGLISH! Just in time for the \u201cFifth of May!\u201d",
+        "modified": "2016-02-29T09:04:11-0500",
+        "isbn": "",
+        "upc": "759606084921000111",
+        "diamondCode": "MAR160868",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Months ago, we were proud to bring you DEADPOOL TRES PUNTO UNO \u2014 a tale told all in Spanish, revealing MASACRE, the Deadpool of Mexico! Due to popular demand (because apparently you were too lazy to translate it for yourself) Marvel has taken to an unspecified Internet translation site and is re-presenting the comic in POORLY TRANSLATED ENGLISH! Just in time for the \u201cFifth of May!\u201d"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58984",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/58984\/deadpool_2015_1?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20613",
+          "name": "Deadpool (2015 - Present)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56065",
+            "name": "Deadpool (2015) #1"
+          },
+          {
+            "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56738",
+            "name": "Deadpool (2015) #1 (Johnson Candy Variant)"
+          },
+          {
+            "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56822",
+            "name": "Deadpool (2015) #1 (Andrews Hip-&#8203;Hop Variant)"
+          },
+          {
+            "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57435",
+            "name": "Deadpool (2015) #1 (Shirahama Variant)"
+          }
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/c0\/56b4d488baa9e",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/c0\/56b4d488baa9e",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58984\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/11680",
+              "name": "Gerry Duggan",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/11801",
+              "name": "Brian Posehn",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/345",
+              "name": "Francisco Herrera",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/486",
+              "name": "Scott Koblish",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58984\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58984\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/128514",
+              "name": "cover from Deadpool (2015) #3.1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/128515",
+              "name": "story from Deadpool (2015) #3.1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58984\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56016,
+        "digitalId": 0,
+        "title": "A-Force (2016) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "\u201cRage, Rage Against The Dying Of The Light\u201d STARTS NOW! When a massive dragon attacks a small coastal town, SHE-HULK, CAPTAIN MARVEL, MEDUSA, DAZZLER, NICO MINORU, and SINGULARITY spring into action. But this dragon is more than she seems and has her sights set on more than just one small town. In fact, she\u2019s got her sights set on one of A-FORCE. Meanwhile, Dazzler\u2019s got a big secret and the strangest ally ever is going to help them in this fight... or maybe try to arrest them.",
+        "modified": "2016-02-29T09:03:45-0500",
+        "isbn": "",
+        "upc": "75960608330500511",
+        "diamondCode": "MAR160757",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\u201cRage, Rage Against The Dying Of The Light\u201d STARTS NOW! When a massive dragon attacks a small coastal town, SHE-HULK, CAPTAIN MARVEL, MEDUSA, DAZZLER, NICO MINORU, and SINGULARITY spring into action. But this dragon is more than she seems and has her sights set on more than just one small town. In fact, she\u2019s got her sights set on one of A-FORCE. Meanwhile, Dazzler\u2019s got a big secret and the strangest ally ever is going to help them in this fight... or maybe try to arrest them."
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56016",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/56016\/a-force_2016_5?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20606",
+          "name": "A-Force (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/7\/40\/56b36c949f91d",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/7\/40\/56b36c949f91d",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56016\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12802",
+              "name": "Ben Caldwell",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12456",
+              "name": "Katie Kubert",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12714",
+              "name": "Kelly Thompson",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56016\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56016\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/122995",
+              "name": "cover from A-Force (2015) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/122996",
+              "name": "story from A-Force (2015) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56016\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57047,
+        "digitalId": 0,
+        "title": "Nova (2015) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "SUMMER VACATION STARTS NOW! Nova\u2019s father is still missing, and his only clue to his old man\u2019s whereabouts blasted off into space last issue. Now, Sam is on the trail of a new mystery -- one he\u2019ll need. THE AVENGERS help to solve! Kicks off a story that will lead into AVENGERS #10!",
+        "modified": "2016-02-29T09:04:31-0500",
+        "isbn": "",
+        "upc": "75960608353400711",
+        "diamondCode": "MAR160770",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "SUMMER VACATION STARTS NOW! Nova\u2019s father is still missing, and his only clue to his old man\u2019s whereabouts blasted off into space last issue. Now, Sam is on the trail of a new mystery -- one he\u2019ll need. THE AVENGERS help to solve! Kicks off a story that will lead into AVENGERS #10!"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57047",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/57047\/nova_2015_7?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20844",
+          "name": "Nova (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/b\/40\/image_not_available",
+          "extension": "jpg"
+        },
+        "images": [
+
+        ],
+        "creators": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57047\/creators",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57047\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57047\/stories",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57047\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56563,
+        "digitalId": 0,
+        "title": "Captain America: Sam Wilson (2015) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "STANDOFF Epilogue! With Steve Rogers back as Cap, Sam struggles to find his place. Can the country handle two Captain Americas?",
+        "modified": "2016-02-29T09:03:54-0500",
+        "isbn": "",
+        "upc": "75960608347300911",
+        "diamondCode": "MAR160766",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "STANDOFF Epilogue! With Steve Rogers back as Cap, Sam struggles to find his place. Can the country handle two Captain Americas?"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56563",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/56563\/captain_america_sam_wilson_2015_9?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20711",
+          "name": "Captain America: Sam Wilson (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-19T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/70\/56b3a5fe264e4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/70\/56b3a5fe264e4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56563\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/4544",
+              "name": "Angel Unzueta",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56563\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56563\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/123981",
+              "name": "cover from Captain America: Sam Wilson (2015) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/123982",
+              "name": "story from Captain America: Sam Wilson (2015) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56563\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55530,
+        "digitalId": 0,
+        "title": "INVINCIBLE IRON MAN (2015) #9",
+        "issueNumber": 9,
+        "variantDescription": "",
+        "description": "Tony and Rhodey are best friends on and off the battlefield but their friendship is tested in ways it never was before as the new power players in the Marvel Universe reveal themselves in a bloody and dangerous fashion that threatens everything they stand for. A Civil War II prologue story!",
+        "modified": "2016-02-29T09:04:23-0500",
+        "isbn": "",
+        "upc": "759606083061000911",
+        "diamondCode": "MAR160752",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Tony and Rhodey are best friends on and off the battlefield but their friendship is tested in ways it never was before as the new power players in the Marvel Universe reveal themselves in a bloody and dangerous fashion that threatens everything they stand for. A Civil War II prologue story!"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55530",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/55530\/invincible_iron_man_2015_9?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20476",
+          "name": "INVINCIBLE IRON MAN (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/a0\/56b4eac074c89",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/a0\/56b4eac074c89",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55530\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/312",
+              "name": "Mike Deodato",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55530\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55530\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/122103",
+              "name": "cover from Iron Man (2015) #9",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/122104",
+              "name": "story from Iron Man (2015) #9",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55530\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 58650,
+        "digitalId": 0,
+        "title": "The Amazing Spider-Man & Silk: The Spider(Fly) Effect (2016) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Spidey and Silk\u2019s time jaunt takes them all the way to their beginning...the science fair where they were bitten by the radioactive spider! Plus: Chronosaurus Rex revealed!",
+        "modified": "2016-02-04T10:40:06-0500",
+        "isbn": "",
+        "upc": "75960608482100311",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Spidey and Silk\u2019s time jaunt takes them all the way to their beginning...the science fair where they were bitten by the radioactive spider! Plus: Chronosaurus Rex revealed!"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58650",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/58650\/the_amazing_spider-man_silk_the_spiderfly_effect_2016_3?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/21407",
+          "name": "The Amazing Spider-Man & Silk: The Spider(Fly) Effect (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/30\/56b371bfb3ea7",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/30\/56b371bfb3ea7",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58650\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12778",
+              "name": "Helen Chen",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/935",
+              "name": "Todd Nauck",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12444",
+              "name": "Robbie Thompson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58650\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58650\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/127886",
+              "name": "cover from Amazing Spider-Man & Silk: The Spider(Fly) Effect (2016) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/127887",
+              "name": "story from Amazing Spider-Man & Silk: The Spider(Fly) Effect (2016) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58650\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 55504,
+        "digitalId": 0,
+        "title": "Howard the Duck (2015) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "When a case takes Howard and Tara to the SAVAGE LAND, they need all the help they can get! But instead, they make do with SPIDER-MAN, SHE-HULK, DAREDEVIL and STEVE ROGERS! Join Chip and special guest artist KEVIN MAGUIRE (!!!!) for an issue we like to call \u201cHoward the Duck Volume Six, Issue Seven!\u201d",
+        "modified": "2016-02-29T09:04:19-0500",
+        "isbn": "",
+        "upc": "75960608305300711",
+        "diamondCode": "MAR160811",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When a case takes Howard and Tara to the SAVAGE LAND, they need all the help they can get! But instead, they make do with SPIDER-MAN, SHE-HULK, DAREDEVIL and STEVE ROGERS! Join Chip and special guest artist KEVIN MAGUIRE (!!!!) for an issue we like to call \u201cHoward the Duck Volume Six, Issue Seven!\u201d"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55504",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/55504\/howard_the_duck_2015_7?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20471",
+          "name": "Howard the Duck (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/00\/56b4e25fd10e2",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/00\/56b4e25fd10e2",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55504\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/780",
+              "name": "Kevin Maguire",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/10090",
+              "name": "Joe Quinones",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12494",
+              "name": "Chip Zdarsky",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55504\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55504\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/122051",
+              "name": "cover from Howard the Duck (2015) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/122052",
+              "name": "story from Howard the Duck (2015) #7",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/55504\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 58685,
+        "digitalId": 0,
+        "title": "Daredevil\/Punisher (2016) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "A simple change of venues for one of Matt Murdock\u2019s cases becomes more complicated when THE PUNISHER attempts to send the defendant away\u2026permanently! If DAREDEVIL and BLINDSPOT want to get this mobster his day in court, it will take every ounce of wit and wile they have. All Frank needs to get what he wants is a bullet. The race is on!",
+        "modified": "2016-02-04T16:48:13-0500",
+        "isbn": "",
+        "upc": "75960608484500111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "A simple change of venues for one of Matt Murdock\u2019s cases becomes more complicated when THE PUNISHER attempts to send the defendant away\u2026permanently! If DAREDEVIL and BLINDSPOT want to get this mobster his day in court, it will take every ounce of wit and wile they have. All Frank needs to get what he wants is a bullet. The race is on!"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58685",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/58685\/daredevilpunisher_2016_1?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/21420",
+          "name": "Daredevil\/Punisher (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/60\/56b3c7decb058",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/60\/56b3c7decb058",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58685\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/665",
+              "name": "Reilly Brown",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58685\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58685\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/127956",
+              "name": "cover from Daredevil\/Punisher: TBD (2016) #1",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58685\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 59344,
+        "digitalId": 0,
+        "title": "Gwenpool (2016)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "\u201cWho is Gwenpool, and where did she come from?\u201d Ever since she made a splash in her first cover appearance, those have been the questions on everyone\u2019s lips as they lounge about, sipping from a tropical beverage! Now, get all three of the original Gwenpool backup stories from HOWARD THE DUCK #1-3 featuring Ms. Poole\u2019s first appearance and her battle alongside our favorite private duck in one convenient package! Plus: See Gwen\u2019s first Xmas in the Marvel Universe, and the guy she killed to mark the occasion!",
+        "modified": "2016-02-29T09:04:17-0500",
+        "isbn": "",
+        "upc": "75960608491300011",
+        "diamondCode": "MAR160820",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 48,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\u201cWho is Gwenpool, and where did she come from?\u201d Ever since she made a splash in her first cover appearance, those have been the questions on everyone\u2019s lips as they lounge about, sipping from a tropical beverage! Now, get all three of the original Gwenpool backup stories from HOWARD THE DUCK #1-3 featuring Ms. Poole\u2019s first appearance and her battle alongside our favorite private duck in one convenient package! Plus: See Gwen\u2019s first Xmas in the Marvel Universe, and the guy she killed to mark the occasion!"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59344",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/59344\/gwenpool_2016?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/21490",
+          "name": "Gwenpool (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/90\/56b4d8fa1d5f4",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/90\/56b4d8fa1d5f4",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59344\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/322",
+              "name": "Gurihiru",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12790",
+              "name": "Danilo Beyruth",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12759",
+              "name": "Christopher Hastings",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59344\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59344\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/129201",
+              "name": "cover from Gwenpool, the Unbelievable (2016)",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/129202",
+              "name": "story from Gwenpool, the Unbelievable (2016)",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59344\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 58747,
+        "digitalId": 0,
+        "title": "Marvel Universe Avengers Assemble: Civil War (2016) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "THE AVENGERS SPLIT IN TWO! With only half of the team on his side, and Avengers Tower wiped out by his new creation, Iron Man seeks help from an ally \u2014 only to land them in deeper danger! Meanwhile, Captain America and his half of the team discover S.H.I.E.L.D. isn\u2019t everything they thought it was\u2026Will the two teams unite in time to save the day?",
+        "modified": "2016-02-29T09:04:24-0500",
+        "isbn": "",
+        "upc": "75960608474600311",
+        "diamondCode": "MAR160876",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "THE AVENGERS SPLIT IN TWO! With only half of the team on his side, and Avengers Tower wiped out by his new creation, Iron Man seeks help from an ally \u2014 only to land them in deeper danger! Meanwhile, Captain America and his half of the team discover S.H.I.E.L.D. isn\u2019t everything they thought it was\u2026Will the two teams unite in time to save the day?"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58747",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/58747\/marvel_universe_avengers_assemble_civil_war_2016_3?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/21433",
+          "name": "Marvel Universe Avengers Assemble: Civil War (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/60\/56b51abe9d436",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/60\/56b51abe9d436",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58747\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12313",
+              "name": "Mark Basso",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58747\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58747\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/128080",
+              "name": "cover from Marvel Universe Avengers Assemble: Civil War (2016) #3",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/58747\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 57383,
+        "digitalId": 0,
+        "title": "Black Panther (2016) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "The darkest chapter of the Black Panther mythos continues as Wakanda crumbles from within. Enter: The Midnight Angels! Two mysterious women leading the citizen revolt against the current regime of Wakanda, challenging not only T\u2019Challa\u2019s politics but also his resolve. But will their rage provide more for the people than the royal family has thus far? Written by MacArthur Genius and National Book Award winner TA-NEHISI COATES (Between the World and Me) and illustrated by living legend BRIAN STELFREEZE!\n",
+        "modified": "2016-02-29T09:03:52-0500",
+        "isbn": "",
+        "upc": "759606084211000211",
+        "diamondCode": "MAR160829",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The darkest chapter of the Black Panther mythos continues as Wakanda crumbles from within. Enter: The Midnight Angels! Two mysterious women leading the citizen revolt against the current regime of Wakanda, challenging not only T\u2019Challa\u2019s politics but also his resolve. But will their rage provide more for the people than the royal family has thus far? Written by MacArthur Genius and National Book Award winner TA-NEHISI COATES (Between the World and Me) and illustrated by living legend BRIAN STELFREEZE!\n"
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57383",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/57383\/black_panther_2016_2?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20912",
+          "name": "Black Panther (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/6\/03\/56b393152b870",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/6\/03\/56b393152b870",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57383\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12803",
+              "name": "Ta-Nehisi Coates",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/575",
+              "name": "Brian Stelfreeze",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57383\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57383\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/125584",
+              "name": "cover from Black Panther (2015) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/125585",
+              "name": "story from Black Panther (2015) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/57383\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 59336,
+        "digitalId": 0,
+        "title": "Civil War II  (2016)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "From the creative team that brought you House of M and Siege comes a blistering first chapter in Marvel\u2019s new explosive event. Watch as the players are introduced and the table is set for a storyline that fans will be talking about for years.",
+        "modified": "2016-02-04T14:37:11-0500",
+        "isbn": "",
+        "upc": "75960608498200111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 40,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "From the creative team that brought you House of M and Siege comes a blistering first chapter in Marvel\u2019s new explosive event. Watch as the players are introduced and the table is set for a storyline that fans will be talking about for years."
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59336",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/59336\/civil_war_ii_2016?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/21605",
+          "name": "Civil War II  (2016 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 4.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/6\/b0\/56b3a8e22f837",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/6\/b0\/56b3a8e22f837",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59336\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/6170",
+              "name": "Olivier Coipel",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59336\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59336\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/129185",
+              "name": "cover from Civil War II Prologue (2016) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/129186",
+              "name": "story from Civil War II Prologue (2016) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/59336\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      },
+      {
+        "id": 56414,
+        "digitalId": 0,
+        "title": "All-New Inhumans (2015) #7",
+        "issueNumber": 7,
+        "variantDescription": "",
+        "description": "AN ALL-NEW ADVENTURE STARTS NOW! The Unpredicable Anna Kravinoff (a.k.a., one of the Kraven family) joins the cast and leads Crystal and her crew to the wilds of Africa in search of a hidden Inhuman enclave that holds answers to Flint\u2019s past. Who are these isolationist Inhumans and why was Flint sent away at such a young age?! Those answers will cause the All-New Inhumans all kinds of problems.",
+        "modified": "2016-02-29T09:03:47-0500",
+        "isbn": "",
+        "upc": "75960608345900711",
+        "diamondCode": "MAR160819",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "AN ALL-NEW ADVENTURE STARTS NOW! The Unpredicable Anna Kravinoff (a.k.a., one of the Kraven family) joins the cast and leads Crystal and her crew to the wilds of Africa in search of a hidden Inhuman enclave that holds answers to Flint\u2019s past. Who are these isolationist Inhumans and why was Flint sent away at such a young age?! Those answers will cause the All-New Inhumans all kinds of problems."
+          }
+        ],
+        "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56414",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http:\/\/marvel.com\/comics\/issue\/56414\/all-new_inhumans_2015_7?utm_campaign=apiRef&utm_source=994f5cf7ae756c3f1febe8e579fc6828"
+          }
+        ],
+        "series": {
+          "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/series\/20681",
+          "name": "All-New Inhumans (2015 - Present)"
+        },
+        "variants": [
+
+        ],
+        "collections": [
+
+        ],
+        "collectedIssues": [
+
+        ],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2016-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2016-04-20T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/2\/f0\/56b36e637a110",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/2\/f0\/56b36e637a110",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56414\/creators",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/8658",
+              "name": "James Asmus",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/12472",
+              "name": "Jamal Campbell",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/1133",
+              "name": "Stefano Caselli",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/creators\/4300",
+              "name": "Nick Lowe",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56414\/characters",
+          "items": [
+
+          ],
+          "returned": 0
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56414\/stories",
+          "items": [
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/123683",
+              "name": "cover from All-New Inhuman (2015) #7",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http:\/\/gateway.marvel.com\/v1\/public\/stories\/123684",
+              "name": "story from All-New Inhuman (2015) #7",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http:\/\/gateway.marvel.com\/v1\/public\/comics\/56414\/events",
+          "items": [
+
+          ],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}

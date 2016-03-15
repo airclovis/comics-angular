@@ -11,27 +11,27 @@ System.register(['angular2/core'], function(exports_1, context_1) {
         if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
     };
     var core_1;
-    var AppComponent;
+    var ComicsComponent;
     return {
         setters:[
             function (core_1_1) {
                 core_1 = core_1_1;
             }],
         execute: function() {
-            AppComponent = (function () {
-                function AppComponent() {
+            ComicsComponent = (function () {
+                function ComicsComponent() {
                 }
-                AppComponent = __decorate([
+                ComicsComponent = __decorate([
                     core_1.Component({
-                        selector: 'my-app',
-                        templateUrl: 'app/app.component.html'
+                        selector: 'comics',
+                        templateUrl: 'app/comics.component.html'
                     }), 
                     __metadata('design:paramtypes', [])
-                ], AppComponent);
-                return AppComponent;
+                ], ComicsComponent);
+                return ComicsComponent;
             }());
-            exports_1("AppComponent", AppComponent);
+            exports_1("ComicsComponent", ComicsComponent);
         }
     }
 });
-//# sourceMappingURL=app.component.js.map
+//# sourceMappingURL=comics.component.js.map

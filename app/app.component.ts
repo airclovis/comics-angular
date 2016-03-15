@@ -1,6 +1,9 @@
 import {Component} from 'angular2/core';
+import {ComicsComponent} from './comics.component';
+
 @Component({
     selector: 'my-app',
-    template: '<h1>My First Angular 2 App</h1>'
+    templateUrl: 'app/app.component.html'
 })
+
 export class AppComponent { }
